@@ -1,4 +1,4 @@
-# Antmicro's AOSP-Based industrial Android BSP
+# Antmicro's AOSP-based industrial Android BSP
 
 This is the central repository for Antmicro's industrial Android BSP based on AOSP for ARM platforms.
 It briefly explains how to build and run the BSP on Antmicro hardware.
