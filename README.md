@@ -10,7 +10,7 @@ Antmicro has been building AOSP-based BSPs for customers and partners globally f
 Antmicro’s Android BSP will be regularly expanding to help our customers build new cutting-edge products - and thanks to its open source nature, keep them in charge of a design that is transparent, reproducible and which they can truly own and develop as needed. Reach out to us at contact@antmicro.com to inquire about Android for your platform. 
 
 The BSP currently supports the following hardware/Android combination:
-* Android 7.1 (Nougat) for Antmicro's Apalis TK1 Smart Vision Kit
+* Android 7.1 (Nougat) for Antmicro's [Apalis TK1 Smart Vision Kit](https://antmicro.com/products/tk1-kit/)
 
 ## Android 7.1 for Antmicro's Apalis TK1 Smart Vision Kit
 
