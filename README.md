@@ -5,6 +5,10 @@ It briefly explains how to build and run the BSP on Antmicro hardware.
 
 ![Android on Apalis TK1 kit - menu](images/android-tk1-menu.jpg)
 
+Antmicro has been building AOSP-based BSPs for customers and partners globally for a variety of edge computing platforms from vendors like NVIDIA, NXP and Qualcomm, in applications such as smart industrial screens, AR/VR, portable instruments, infotainment, automotive, smart lighting and smart home. We provide services in building, extending and tailoring Android-based systems, including OTA update and continuous deployment systems, with rich connectivity and AI capabilities.
+
+Antmicro’s Android BSP will be regularly expanding to help our customers build new cutting-edge products - and thanks to its open source nature, keep them in charge of a design that is transparent, reproducible and which they can truly own and develop as needed. Reach out to us at contact@antmicro.com to inquire about Android for your platform. 
+
 The BSP currently supports the following hardware/Android combination:
 * Android 7.1 (Nougat) for Antmicro's Apalis TK1 Smart Vision Kit
 
