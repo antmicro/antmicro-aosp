@@ -157,3 +157,4 @@ Unmount the partition:
 
 Done. You can reset the device now.
 
+*Android is an open platform developed by Google LLC and the Open Handset Alliance. Android is a trademark of Google LLC. All other trademarks are the property of their respective owners.*
