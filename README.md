@@ -155,6 +155,8 @@ Unmount the partition:
 	sudo umount /mnt/aosp-boot
 	sudo rmdir /mnt/aosp-boot
 
-Done. You can reset the device now.
+Done. You can reset the device now - on powerup, you will see the following:
+
+![Android on Apalis TK1 kit - booting](images/android-tk1-booting.gif)
 
 *Android is an open platform developed by Google LLC and the Open Handset Alliance. Android is a trademark of Google LLC. All other trademarks are the property of their respective owners.*
